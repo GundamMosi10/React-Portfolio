@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.681823d8.css",
+    "main.js": "/static/js/main.e12fc4c4.js",
+    "static/media/Screenshot-QUACK.png": "/static/media/Screenshot-QUACK.9917562a38428cd81420.png",
+    "static/media/screenshot.png": "/static/media/screenshot.ee31c7525098853e503e.png",
+    "static/media/Screenshot-Note Taker.png": "/static/media/Screenshot-Note Taker.1f33b70885436d1b0f13.png",
+    "static/media/ColinResume2021NEW3.pdf": "/static/media/ColinResume2021NEW3.bb78953760c120616ed8.pdf",
+    "index.html": "/index.html",
+    "main.681823d8.css.map": "/static/css/main.681823d8.css.map",
+    "main.e12fc4c4.js.map": "/static/js/main.e12fc4c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.681823d8.css",
+    "static/js/main.e12fc4c4.js"
+  ]
+}
