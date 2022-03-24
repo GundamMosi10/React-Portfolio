@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import NavTabs from './NavTabs';
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
-import Contact from './pages/Contact';
+import Socials from './pages/Socials';
 import Resume from './pages/Resume';
 
 export default function MyPage() {
@@ -15,8 +15,8 @@ export default function MyPage() {
         if (currentPage === 'Portfolio') {
             return <Portfolio />;
         }
-        if (currentPage === 'Contact') {
-            return <Contact />;
+        if (currentPage === 'Socials') {
+            return <Socials />;
         }
         return <Resume />;
     };

@@ -2,6 +2,7 @@ import React from 'react';
 import '../styles/portfolio.css';
 import screenshot from "../../Assets/screenshot.png";
 import screenshotquack from "../../Assets/Screenshot-QUACK.png";
+import screenshotnotetaker from "../../Assets/Screenshot-Note Taker.png";
 
 export default function Portfolio() {
   return (
@@ -37,14 +38,14 @@ export default function Portfolio() {
         <div className="card">  
           <div className="face face1">  
             <div className="content">  
-              <img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/launch_128.png?raw=true"/>  
-              <h3>Launch</h3>  
+              <img src={screenshotnotetaker}/>  
+              <h3>Note Taker</h3>  
             </div>  
           </div>  
           <div className="face face2">  
             <div className="content">  
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cum cumque minus iste veritatis provident at.</p>  
-                <a href="#">Read More</a>  
+              <p>This note taking app allows you to keep organized with your day and when you complete a task you can simply delete the note from the app and start new ones.</p>  
+                <a href="https://sheltered-dusk-87449.herokuapp.com/">Note Taker</a>  
             </div>  
           </div>  
         </div>  
